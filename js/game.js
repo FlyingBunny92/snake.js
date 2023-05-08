@@ -43,6 +43,7 @@ const images = [ // array with images path
 	'./img/food/carrot.svg',
 	'./img/food/eggplant.svg',
 	'./img/food/banana.svg',
+	'./img/food/bitcoin.svg',
 ];
 let img = new Image();
 img.src = images[0]; // the default will be the first image
